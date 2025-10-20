@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^7.1.9"
+    "vite": "^7.1.11"
   },
   "dependencies": {
     "ol": "latest"
